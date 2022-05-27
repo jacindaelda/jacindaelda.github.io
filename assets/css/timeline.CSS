@@ -5,9 +5,8 @@ body {
 
 /* The actual timeline with vertical line */
 .timeline {
-	width: 100%;
-	max-width: 750px;
 	margin: 0 auto;
+	max-width: 750px;
 	padding: 25px;
   	font-family: Helvetica, sans-serif;
   	color: #ffffff;
