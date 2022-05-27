@@ -5,11 +5,11 @@ body {
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
-  position: relative;
   max-width: 750px;
   margin: 0 auto;
   padding: 25px;
   font-family: Helvetica, sans-serif;
+  color: #ffffff;
   display: grid;
   grid-template-columns: 1fr 3px 1fr;
 }
