@@ -18,6 +18,10 @@ body {
 	margin: 0 20px 20px 20px;
 }
 
+timeline__date--right {
+	text-align: right;
+}
+
 .timeline__middle {
 	position: relative;
 	background: #ffffff;
