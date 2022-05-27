@@ -8,10 +8,10 @@ body {
 	margin: 0 auto;
 	max-width: 750px;
 	padding: 25px;
+	display: grid;
+  	grid-template-columns: 1fr 3px 1fr;
   	font-family: Helvetica, sans-serif;
   	color: #ffffff;
-  	display: grid;
-  	grid-template-columns: 1fr 3px 1fr;
 	}	
 
 .timeline__component--right {
