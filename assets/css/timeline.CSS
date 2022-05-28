@@ -18,7 +18,7 @@ body {
 	margin: 0 20px 20px 20px;
 }
 
-timeline__date--right {
+.timeline__date--right {
 	text-align: right;
 }
 
