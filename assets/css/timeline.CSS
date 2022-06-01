@@ -50,3 +50,7 @@ body {
 	font-size: 1.15em;
 	font-weight: bold;
 }
+
+.timeline__paragraph {
+	line-height: 1.5;
+}
